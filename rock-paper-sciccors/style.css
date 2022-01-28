@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(8, 8, 80);
+    font-family: sans-serif;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+}
+
+.row{
+    margin-left: 33%;
+    margin-top: 5%;
+}
+
+#rock,#paper,#scissors{
+    clip-path:circle();
+    padding:5%;
+}
+#text{
+    margin-left: -40%;
+}
+
+#user-el{
+    margin-left: -40%;
+}
+#btn{
+    background-color: transparent;
+    border:none;
+    color: white;
+    
+
+}
